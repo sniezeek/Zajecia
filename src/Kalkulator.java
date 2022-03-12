@@ -20,6 +20,24 @@ public class Kalkulator {
             int a = input.nextInt();
             System.out.println("Podaj drugą:");
             int b = input.nextInt();
+            //Wykonywanie działań za pomocą switcha
+            switch(dzialanie){
+                case "d":
+                    System.out.println(String.valueOf(a)+"+"+String.valueOf(b)+"="+(a+b));
+                    break;
+                case "o":
+                    System.out.println(a-b);
+                    break;
+                case "m":
+                    System.out.println(a*b);
+                    break;
+                case "dz":
+                    System.out.println(a/b);
+                    break;
+                default:
+                    break;
+            }
+
         }
     }
 }
