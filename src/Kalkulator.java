@@ -26,13 +26,13 @@ public class Kalkulator {
                     System.out.println(String.valueOf(a)+"+"+String.valueOf(b)+"="+(a+b));
                     break;
                 case "o":
-                    System.out.println(a-b);
+                    System.out.println(String.valueOf(a)+"-"+String.valueOf(b)+"="+(a-b));
                     break;
                 case "m":
-                    System.out.println(a*b);
+                    System.out.println(String.valueOf(a)+"*"+String.valueOf(b)+"="+(a*b));
                     break;
                 case "dz":
-                    System.out.println(a/b);
+                    System.out.println(String.valueOf(a)+"/"+String.valueOf(b)+"="+(a/b));
                     break;
                 default:
                     break;
