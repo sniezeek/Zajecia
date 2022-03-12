@@ -3,17 +3,25 @@
 
 gra życie i walka
 człowiek jest stworzony za pomocą klasy 
+</br>
 	Zmienne: życie, exp, obrazenia
+	</br>
 	Funkcje: walka, leczenie, wyswietlanie statystyk
-
+</br>
 opcje do wyboru w programie:
 1.wyjscie
+</br>
 2.walka-program losowo zadaje nam obrażenia od 1-100 i dodaje exp jeśli wygraliśmy jeśli nie to pisze ze zgineliśmy
+</br>
 3.wyswietlenie statystyk:wyświetla wszystkie zmienne z klasy Człowiek
+</br>
 4.leczenie: dodaje życie +100
 
 
-
+</br>
+</br>
+</br>
+</br>
 
 1. Klasa Program i Człowiek
 2. Konstruktor klasy Człowiek (pierwsze wartości)
