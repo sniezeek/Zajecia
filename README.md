@@ -8,6 +8,8 @@ człowiek jest stworzony za pomocą klasy
 	</br>
 	Funkcje: walka, leczenie, wyswietlanie statystyk
 </br>
+</br>
+</br>
 opcje do wyboru w programie:
 1.wyjscie
 </br>
