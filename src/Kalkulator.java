@@ -6,7 +6,7 @@ public class Kalkulator {
         Scanner input = new Scanner(System.in);
         //Deklarujemy zmienną string aby jej później używać
         String dzialanie = "1";
-        //warunek pętli while (!-neguje)
+        //warunek pętli while jeśli jest true to ta pętla zawsze się wykonuje chyba że natrafi na break;
         while (true){
             //Pytamy o dzialanie
             System.out.println("Wyjscie(x),Dodawanie(d),Odejmowanie(o),Mnozenie(m),Dzielenie(dz)");
