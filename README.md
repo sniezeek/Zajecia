@@ -1,6 +1,8 @@
 # Zajecia
-
-
+<b>
+Projekt nazwa ŻYCIEIWALKA na githubie
+</b>
+	<br>
 gra życie i walka
 człowiek jest stworzony za pomocą klasy 
 </br>
