@@ -22,10 +22,14 @@ public class Plik {
             System.out.println("wywaliło błąd");
         }
         //Zapis do pliku
-        FileWriter plik = new FileWriter("plik_tekstowy.txt");
-        plik.write("zapiszmy coś w pliku");
-        plik.write("\nzapiszemy coś innego w pliku");
-        plik.close();
+        try {
+            FileWriter plik = new FileWriter("plik_tekstowy.txt");
+            plik.write("zapiszmy coś w pliku");
+            plik.write("\nzapiszemy coś innego w pliku");
+            plik.close();
+        }catch (IOException e){
+            System.out.println("Nie udało się zapisać do pliku");
+        }
 
     }
 }
