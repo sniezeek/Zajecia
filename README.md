@@ -36,3 +36,36 @@ opcje do wyboru w programie:
 odejmujemy za pomocą funkcji walka obrazenia wylosowane od życia
 i dodajemy w tej samej funkcji exp (stała wartość)
 7. if że jeśli mamy mniej niż 0 życia to przegraliśmy
+</br>
+</br>
+<p>
+   <b>
+   Projekt nazwa FIRMA na githubie
+   </b>
+</p>
+<p>
+Program polega na zarządzaniu pracownikami w firmie.
+Dwie klasy Firma(główna w niej jest funkcja main) i Pracownik
+</p>
+<p>
+   <b>
+Firma:
+   </b>
+</p>
+<ul>
+<li>ArrayLista pracowników</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<p>
+   <b>
+Pracownik:
+   </b>
+</p>
+<ul>
+<li>Imie i Nazwisko</li>
+<li>Płaca</li>
+<li>Adres</li>
+<li></li>
+</ul>
