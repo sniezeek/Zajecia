@@ -54,9 +54,13 @@ Firma:
 </p>
 <ul>
 <li>ArrayLista pracowników</li>
-<li></li>
-<li></li>
-<li></li>
+<li>wyjscie z programu</li>
+<li>dodaj pracownika nowego</li>
+<li>Wyswietl wszystkich pracowników</li>
+<li>zwolnij pracownika</li>
+<li>podnieś płace pracownika</li>
+<li>suma wydatków miesięcznych</li>
+<li>zapis danych pracowników w formie tabeli do pliku txt</li>
 </ul>
 <p>
    <b>
@@ -67,5 +71,6 @@ Pracownik:
 <li>Imie i Nazwisko</li>
 <li>Płaca</li>
 <li>Adres</li>
-<li></li>
+<li>wszystkie zmienne prywatne</li>
+<li>funkcja toString która zwraca String z wszystkimi danymi</li>
 </ul>
