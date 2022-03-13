@@ -1,3 +1,5 @@
+package zajecia1;
+
 public class Auto {
     public String kolor;
     public int predkość;

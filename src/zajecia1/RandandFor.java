@@ -1,3 +1,5 @@
+package zajecia1;
+
 import java.util.Random;
 
 public class RandandFor {
