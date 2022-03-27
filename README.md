@@ -74,3 +74,27 @@ Pracownik:
 <li>wszystkie zmienne prywatne</li>
 <li>funkcja toString która zwraca String z wszystkimi danymi</li>
 </ul>
+
+
+<p>ls -wyswietlenie wszystkich plikow i folderów</p>
+<p>ls -l -wyswietlanie z wiekszą ilością danych</p>
+<p>cd - zmiana sciezki </p>
+<p>cd ../ -cofniecie sie</p>
+<p>clear -czyszczenie widoku terminala</p>
+<p>rm - usuwanie plikow</p>
+<p>rm -rf usuwanie folderów</p>
+<p>nano -notatnik terminalowy</p>
+
+<p>git init -inicjowanie lokalnego repozytorium</p>
+<p>git status -pokazuje ktr pliki są dodane do commita a ktr nie</p>
+<p>git add . -dodawanie wszystkich plików do commita</p>
+<p>git reset -usuwa wszystko z commita</p>
+<p>git commit -m "komentarz" --tworzy commita </p>
+<p>git remote add origin link -łączy nam z zewnętrznym repozytorium</p>
+<p>git push origin master -wysyłamy do zdalnego repozytorium</p>
+<p>git branch -wyswietlanie gałęzi</p>
+<p>git branch nazwa_galezi -tworzy nową galąź</p>
+<p>git checkout -przeskakuje na ogpowiedni branch</p>
+<p>git mergetool</p>
+
+<p>vim wyjscie :wqa -</p>
