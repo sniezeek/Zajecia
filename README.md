@@ -98,3 +98,4 @@ Pracownik:
 <p>git mergetool</p>
 
 <p>vim wyjscie :wqa -</p>
+http://www.algorytm.org/algorytmy-sortowania/
