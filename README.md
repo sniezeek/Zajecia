@@ -99,3 +99,65 @@ Pracownik:
 
 <p>vim wyjscie :wqa -</p>
 http://www.algorytm.org/algorytmy-sortowania/
+
+__________________________________________________
+
+Testowanie:
+	-jednostkowe (NISKOPOZIOMOWYM KODOWANIEM) JUnit 4 5
+	-funkcjonalne
+	-integracyjne
+	-wydajnościowe
+	....
+https://mvnrepository.com/
+Maven i Gradle różnice
+
+assertEquals()-
+assertTrue()
+assertFalse()
+assertNull()
+assertNotNull()
+assertNotEquals()
+assertThrows()
+
+@BeforeEach
+@BeforeAll
+@AfterEach
+@AfterAll
+@DisplayName("")
+@Disabled
+
+|| - lub
+&& - i
+
+TDD BDD (Test Driven Development, Behaviour Driven Development)
+user dodaje cos do koszyka
+	-wybrac produkt
+		
+	-powinien byc dodany do koszyka
+		czyWybranyProduktZostalDodanyDoKoszyka()
+	-mozliwe usuniecie z koszyka
+		czyZostałPoprawnieUsuniety()
+		czyMoznaUsunąćWiecejNizJeden()
+
+Nie sprawdzac oczywistych rzeczy
+Nazywamy wszystkie funkcje tak zeby kazdy wiedzial co ona robi
+Kazdy test niezalezny od innych
+Testujemy warunki brzegowe
+___________________________________________________
+Zadanie koszyk na stronie internetowej
+	-dodawanie produktów ze sklepu
+	-usuwanie
+	-ilosc tego samego przedmiotu
+	-cena przedmiotu
+	-obliczanie ceny za wszystko
+1.Tworzymy historyjki (story)
+2.Tworzymy nazwy testów jednostkowych
+3.Piszemy aplikacje
+
+		Koszyk klasa 
+			Map zmienna z wyszystkimi produktam 			zamowionymi wraz z iloscią
+
+			funkcja liczenia wszystkich cen
+		Przedmiot klasa
+			Cena 
+			Nazwa
