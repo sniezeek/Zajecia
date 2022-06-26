@@ -161,3 +161,24 @@ Zadanie koszyk na stronie internetowej
 		Przedmiot klasa
 			Cena 
 			Nazwa
+			
+			
+___________________________________________________
+Zadanie wypożyczalnia aut
+Plik Pom.xml i aplication.properties potrzebne do połączenia z bazą danych znajdują się w folderze serwerZadanie
+Do stworzenia jest aplikacja kliencka, aplikacja serwerowa i baza danych.
+Baza danych:
+	-minimum 3 tabele (cennik, klienci, auta) Jesli potrzebujecie ich wiecej to śmiało można tworzyć
+	-tabela klienci ma być powiązana z autami za pomocą id_auta
+Aplikacja serwerowa:
+	-serwlety:
+		-tworzący połączenie klienta z autem
+		-usuwający połączenie klienta z autem
+		-wyświetlający wszystkie wypożyczenia
+		-wyświetlający cennik do danego auta
+Aplikacja kliencka: ma wykonywać zapytania na wszystkie serwlety
+
+
+
+
+
