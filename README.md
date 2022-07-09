@@ -175,10 +175,10 @@ Zadanie wypożyczalnia aut
 <p>Aplikacja serwerowa:</p>
 <p>	-serwlety:</p>
 	<ul>
-		-tworzący połączenie klienta z autem<li>
-		-usuwający połączenie klienta z autem<li>
-		-wyświetlający wszystkie wypożyczenia<li>
-		-wyświetlający cennik do danego auta<li>
+		<li>-tworzący połączenie klienta z autem</li>
+		<li>-usuwający połączenie klienta z autem</li>
+		<li>-wyświetlający wszystkie wypożyczenia</li>
+		<li>-wyświetlający cennik do danego auta</li>
 	</ul>
 <p>Aplikacja kliencka: ma wykonywać zapytania na wszystkie serwlety</p>
 
